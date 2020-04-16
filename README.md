@@ -1,6 +1,6 @@
 # Prusa I3 MK3S Einsy + Raspberry Pi Enclosure
 
-This is a remix of [martin_au's](https://www.thingiverse.com/martin_au) excellent [Embiggened, braced, reversed, Prusa Mk3 Einsy enclosure.](https://www.thingiverse.com/thing:3424832) to include a Raspberry Pi 2.
+This is a remix of [martin_au's](https://www.thingiverse.com/martin_au) excellent [embiggened, braced, reversed, Prusa Mk3 Einsy enclosure](https://www.thingiverse.com/thing:3424832) to include a Raspberry Pi 2.
 
 Rather than adding another box for the Raspberry Pi to go in, we wanted a clean, integrated solution: So here it is!
 
